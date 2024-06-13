@@ -1,0 +1,59 @@
+.about{
+padding: 30px 70px 30px 70x;
+
+}
+
+.part1{
+  margin: auto;
+  margin-left: 60px;
+}
+
+.part2{
+    margin: auto;
+    margin-left: 10px;
+
+}
+
+.part1 p{
+    color: white;
+  
+
+}
+
+.mid{
+    color: white;
+}
+
+.p1{
+    font-size: 50px;
+    font-weight: 700;
+   
+}
+.p2{
+    font-size: 20px;
+}
+
+.partt{
+    background-color: #ec559b;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.orion img{
+    width: 120px;
+    height: 100px;
+    
+}
+
+.orion{
+    background-image: linear-gradient(to right top, #f84dae, #db41a2, #be3596, #a22a89, #871f7b, #86247f, #862983, #852e87, #9e43a0, #b857b9, #d26dd3, #ed82ee);
+}
+
+/* .foot{
+    color: white;
+    background-color: black;
+    padding: 40px 80px;
+    position: fixed;
+    position: relative;
+
+} */

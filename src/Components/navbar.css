@@ -1,0 +1,41 @@
+.navbar-nav>li>a{
+    color: white;
+    
+}
+
+.navbar{
+    padding: 20px 60px 20px 60px;
+    text-align: center;
+   
+   
+
+
+}
+.navbar-brand{
+    color: white;
+}
+
+.nav-item a:hover{
+    color: yellow;
+}
+
+.cont
+{
+    border-radius: 6px;
+    padding: 7px;
+    background-image: linear-gradient(to right top, #bb1561, #c7266e, #d4347b, #e04189, #ec4d97);
+    color: white;
+    font-size: 17px;
+    font-weight: 400;
+    width: 11%;
+
+}
+.log{
+    border-radius: 6px;
+    padding: 7px;
+    color: white;
+    font-size: 17px;
+    font-weight: 400;
+    background-color: #40095a;
+    width: 5%;
+}

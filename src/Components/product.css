@@ -1,0 +1,31 @@
+.box{
+    padding: 20px 60px 20px 60px;
+    
+}
+
+.platform{
+    background-color: rgb(21, 2, 40);
+    border-radius: 10px;
+    color: white;
+    width: 40%;
+  
+   
+   
+}
+
+.platform h1{
+    margin-top: 20px;
+
+}
+.platform h4{
+    font-size: 16px;
+
+}
+.platform2{
+    margin-left: 50px;
+}
+
+.center{
+    padding: 20px 60px 20px 60px;
+}
+
